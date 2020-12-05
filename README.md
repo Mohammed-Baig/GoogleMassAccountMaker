@@ -1,5 +1,5 @@
 # GoogleMassAccountMaker
-Hi! As of this message I am currently a first year computer science student at york university. I recently decided that it might be a fun idea to try and 'exploit' googles account
+Hi! As of this message I am currently a first year computer science student. I recently decided that it might be a fun idea to try and 'exploit' googles account
 creator system, theoretically allowing you to have an army of 'bots' at your fingertips that can be manipulated at any time be it through vote manipulation, follower manipulation 
 or anything of the sort. While I never intended to use this for any malicious purposes I know that I cannot enforce this. As such I can simply appeal to your good natures and 
 implore that under no circumstances should this be used for anything malicious.
