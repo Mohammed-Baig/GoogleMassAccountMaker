@@ -10,17 +10,17 @@ from python_anticaptcha import AnticaptchaClient, NoCaptchaTaskProxylessTask
 from random import randint
 
 #____________________________________________________________________________________Navigate to where you'll be getting your number_____________________________________________________________________
-api_key = '33c8d8a6b4531b2b6abee3a702c1f3fa'
+api_key = '(INSERT AntiCaptchaKey here)'
 
 browser = webdriver.Chrome()
 browser.implicitly_wait(5)
 browser.get('https://www.getsmscode.com/user.php')
 
 email_input = browser.find_element_by_css_selector("input[name='username']")
-email_input.send_keys("mohammedR2244@gmail.com")
+email_input.send_keys("ENTER SITE USERNAME")
 
 password_input = browser.find_element_by_css_selector("input[type='password']")
-password_input.send_keys("P1%assword")
+password_input.send_keys("ENTER SITE PASSWORD")
 
 url = browser.current_url
 site_key = "6LfQnD4UAAAAAOpgxHPo0E9gIgGe7PybDDGZ6UQM"
